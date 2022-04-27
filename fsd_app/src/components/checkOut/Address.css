@@ -1,0 +1,46 @@
+.adrsbutton{
+    width: 100%;
+    border: 1px solid #000;
+    background: #fff;
+    margin-top: 20px;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    color: #000;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: 0.5s ease;
+  }
+  .adrsbutton:hover{
+    background-color: #2EE59D;
+    border:none;
+   box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+   color: #fff;
+   transform: translateY(-7px); 
+ }
+.addInf{
+    width: 100%;
+    margin: 8px 0;
+    padding: 16px 18px;
+    display: inline-block;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.addInf:focus{
+    -webkit-box-shadow:0 0 2px 1px #7ed32180;
+    -moz-box-shadow:0 0 2px 1px #7ed32180;
+    box-shadow: 0 0 2px 1px #7ed321;
+    border: 1px solid #7ed32180;
+    transform: translateY(-7px); 
+  }
+.Address{
+    box-sizing: border-box ;
+    border-style: groove;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    margin-top: 10%;
+}

@@ -1,0 +1,128 @@
+.logintext{
+  width: 100%;
+  margin: 8px 0;
+  padding: 12px 20px;
+  display: inline-block;
+  border: none;
+  border-bottom: groove;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+.sbutton {
+  background-color: rgb(34, 194, 186);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 24px;
+  
+}
+
+.signupbutton{
+  text-decoration: none;
+  color:black;
+
+}
+
+.Login h2, .signUp h2{
+  text-align: left;
+  margin-left: 2%;
+  font-size: medium;
+}
+
+.Label{
+text-align:left;
+margin-left: 0%;
+
+}
+/* Add a hover effect for buttons */
+.sbutton:hover {
+  opacity: 0.8;
+  color:darkseagreen;
+  color:black;
+}
+.signupbutton:hover {
+ 
+  color:black;
+
+}
+
+/* Add padding to containers */
+.Login,.signUp {
+  padding: 16px;
+  box-sizing: border-box;
+  border-style: solid;
+  margin-left: 36%;
+  margin-right: 36%;
+  margin-top:50px;
+  border-radius: 25px;
+  padding-bottom: 3%;
+  
+}
+
+/* The "Forgot password" text */
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+.cta {
+  position: relative;
+  margin: auto;
+  padding: 12px 18px;
+  transition: all 0.2s ease;
+  border: none;
+  background: none;
+ }
+ 
+ .cta:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  border-radius: 50px;
+  background: #b1dae7;
+  width: 45px;
+  height: 45px;
+  transition: all 0.3s ease;
+ }
+ 
+ .cta span {
+  position: relative;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #234567;
+ }
+ 
+ .cta svg {
+  position: relative;
+  top: 0;
+  margin-left: 10px;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #234567;
+  stroke-width: 2;
+  transform: translateX(-5px);
+  transition: all 0.3s ease;
+ }
+ 
+ .cta:hover:before {
+  width: 100%;
+  background: #b1dae7;
+ }
+ 
+ .cta:hover svg {
+  transform: translateX(0);
+ }
+ 
+ .cta:active {
+  transform: scale(0.95);
+ }

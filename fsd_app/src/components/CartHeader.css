@@ -1,0 +1,56 @@
+.cart-header-container{
+   margin-bottom: 3%;
+    padding: 1% 2% 1.5% 35%;
+    
+    font-size: small;
+    box-sizing: border-box;
+    border-bottom: groove;
+    border-color: rgb(201, 200, 200);
+}
+.cart1-header{
+    display: inline-block;
+    font-size: small;
+    color: grey;
+}
+.cart-header-img{
+    width: 150px;
+    height: 30px;
+    display: inline;
+    top: 50px;
+}
+.cart-header{
+    text-decoration: none;
+    font-size: small;
+    outline: none;
+    color: green;
+    display: inline-block;
+    padding-bottom: 6px;
+    border-bottom: solid green;
+}
+.address-header{
+    text-decoration: none;
+    outline: none;
+    font-size: small;
+    color: green;
+    display: inline-block;
+    padding-bottom: 6px;
+    border-bottom: solid green;
+}
+.payment-header{
+    text-decoration: none;
+    outline: none;
+    font-size: small;
+    color: green;
+    display: inline-block;
+    padding-bottom: 6px;
+    border-bottom: solid green;
+}
+.linkdecoration{
+    text-decoration: none;
+    outline: none;
+    color: grey;
+    font-size: small;
+}
+.linkdecoration:hover{
+    color: grey;
+}

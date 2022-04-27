@@ -1,0 +1,293 @@
+{
+  "address": [
+    {
+      "Full_name": "KONGAMUDI ROKESH REDDY",
+      "Mobile": "09381540744",
+      "email": "rokeshreddykongamudi@gmail.com",
+      "Pincode": "517502",
+      "comAdd": "TIRUPATI, ANDHRA PRADESH",
+      "Town": "TIRUPATI",
+      "District": "TIRUPATI",
+      "State": "Andhra Pradesh",
+      "Home": "",
+      "Office": "",
+      "id": 1
+    }
+  ],
+  "credit": [
+    {
+      "Cardname": "rok",
+      "Cardnumber": "123698745",
+      "Expmonth": "12",
+      "Expyear": "2025",
+      "Cvv": "655",
+      "id": 1
+    },
+    {
+      "Cardname": "rok",
+      "Cardnumber": "98742",
+      "Expmonth": "6512",
+      "Expyear": "98742",
+      "Cvv": "852",
+      "id": 2
+    },
+    {
+      "Cardname": "rok",
+      "Cardnumber": "896320",
+      "Expmonth": "963",
+      "Expyear": "63",
+      "Cvv": "63",
+      "id": 3
+    },
+    {
+      "Cardname": "rok",
+      "Cardnumber": "7410025863",
+      "Expmonth": "9874",
+      "Expyear": "0001",
+      "Cvv": "1201",
+      "id": 4
+    },
+    {
+      "Cardname": "oiuytf",
+      "Cardnumber": "7896321496",
+      "Expmonth": "12",
+      "Expyear": "025",
+      "Cvv": "111",
+      "id": 5
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 6
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 7
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 8
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 9
+    },
+    {
+      "Cardname": "oiuytf",
+      "Cardnumber": "sdfb",
+      "Expmonth": "20",
+      "Expyear": "20",
+      "Cvv": "2",
+      "id": 10
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 11
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 12
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 13
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 14
+    },
+    {
+      "Cardname": "",
+      "Cardnumber": "",
+      "Expmonth": "",
+      "Expyear": "",
+      "Cvv": "",
+      "id": 15
+    }
+  ],
+  "activeLogin": [],
+  "Users": [
+    {
+      "Full_name": "S HARSSHATH",
+      "email": "rokeshreddy@gmail.com",
+      "psw": "1234",
+      "id": 1
+    },
+    {
+      "Full_name": "S HARSSHATH",
+      "email": "harsshath.m19@iiits.in",
+      "psw": "1234",
+      "id": 2
+    },
+    {
+      "Full_name": "KONGAMUDI rokesh",
+      "email": "kmrokeshreddy@gmail.com",
+      "psw": "1234",
+      "id": 4
+    },
+    {
+      "Full_name": "harsshath",
+      "email": "hars@gmail.com",
+      "psw": "1234",
+      "id": 5
+    },
+    {
+      "Full_name": "bhar",
+      "email": "dfgh@gmail.com",
+      "psw": "123",
+      "id": 6
+    },
+    {
+      "Full_name": "Narayana college",
+      "email": "kmrhreddy@gmail.com",
+      "psw": "1250",
+      "id": 7
+    }
+  ],
+  "orders": [
+    [
+      {
+        "Full_name": "STRAW BERRY",
+        "type": "Fruit",
+        "Qty": "150",
+        "price": "200",
+        "discount": "10",
+        "desc": "Fresh Organic StrawBerry",
+        "img": "https://swall.teahub.io/photos/small/19-192365_ultra-hd-fruits-hd.jpg",
+        "SoldBy": {
+          "email": "kmrokeshreddy@gmail.com",
+          "UserName": "KONGAMUDI rokesh"
+        },
+        "id": 3,
+        "qty": 1,
+        "userInfo": {
+          "userDetails": {
+            "email": "dfh@gmail.com",
+            "UserName": "asnljsdnvjsk"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "Full_name": "PAPAYA",
+        "type": "Fruit",
+        "Qty": "150",
+        "price": "200",
+        "discount": "10",
+        "desc": "PAPAYA",
+        "img": "https://media.istockphoto.com/photos/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-picture-id864053288?b=1&k=20&m=864053288&s=170667a&w=0&h=IsyLu5b7vvJycnyLcQwBGv88BOXMZub_W5AyM9mvps0=",
+        "SoldBy": {
+          "email": "kmrokeshreddy@gmail.com",
+          "UserName": "KONGAMUDI rokesh"
+        },
+        "id": 4,
+        "qty": 1,
+        "userInfo": {
+          "userDetails": {
+            "email": "dfh@gmail.com",
+            "UserName": "asnljsdnvjsk"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "Full_name": "STRAW BERRY",
+        "type": "Fruit",
+        "Qty": "150",
+        "price": "200",
+        "discount": "10",
+        "desc": "Fresh Organic StrawBerry",
+        "img": "https://swall.teahub.io/photos/small/19-192365_ultra-hd-fruits-hd.jpg",
+        "SoldBy": {
+          "email": "kmrokeshreddy@gmail.com",
+          "UserName": "KONGAMUDI rokesh"
+        },
+        "id": 3,
+        "qty": 1,
+        "userInfo": {
+          "userDetails": {
+            "email": "kmrokeshreddy@gmail.com",
+            "UserName": "KONGAMUDI rokesh"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "Full_name": "STRAW BERRY",
+        "type": "Fruit",
+        "Qty": "150",
+        "price": "200",
+        "discount": "10",
+        "desc": "Fresh Organic StrawBerry",
+        "img": "https://swall.teahub.io/photos/small/19-192365_ultra-hd-fruits-hd.jpg",
+        "SoldBy": {
+          "email": "kmrokeshreddy@gmail.com",
+          "UserName": "KONGAMUDI rokesh"
+        },
+        "id": 3,
+        "qty": 1,
+        "userInfo": {
+          "userDetails": {
+            "email": "kmrokeshreddy@gmail.com",
+            "UserName": "KONGAMUDI rokesh"
+          }
+        }
+      },
+      {
+        "Full_name": "PAPAYA",
+        "type": "Fruit",
+        "Qty": "150",
+        "price": "200",
+        "discount": "10",
+        "desc": "PAPAYA",
+        "img": "https://media.istockphoto.com/photos/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-picture-id864053288?b=1&k=20&m=864053288&s=170667a&w=0&h=IsyLu5b7vvJycnyLcQwBGv88BOXMZub_W5AyM9mvps0=",
+        "SoldBy": {
+          "email": "kmrokeshreddy@gmail.com",
+          "UserName": "KONGAMUDI rokesh"
+        },
+        "id": 4,
+        "qty": 1,
+        "userInfo": {
+          "userDetails": {
+            "email": "kmrokeshreddy@gmail.com",
+            "UserName": "KONGAMUDI rokesh"
+          }
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+[
+    {
+        "key":"d1",
+        "name":"Milk",
+        "price":"100",
+        "discount":"10",
+        "soldBy":"Harsshath Singha Roy",
+        "description":"Fresh healthy butter from sterlized milk",
+        "img":"https://media.gettyimages.com/photos/dairy-products-cheese-yoghurt-milk-picture-id155372492?k=20&m=155372492&s=612x612&w=0&h=Wxx6LBFxrqGYFHQ7letLwlVN7PJQA1wUzKVzxOLfUGI="
+
+    },
+    {
+        "key":"d2",
+        "name":"Cheese",
+        "price":"200",
+        "discount":"20",
+        "soldBy":"Harsshath Singha Roy",
+        "description":"Fresh healthy butter from sterlized milk",
+        "img":"https://media.gettyimages.com/photos/dairy-products-shot-on-rustic-wooden-table-picture-id910881428?k=20&m=910881428&s=612x612&w=0&h=c-wO3gdyknBh8SUzwDTWCRQ9aALx0Cpb2qy8aSbqQV8="
+    },
+    {
+        "key":"d3",
+        "name":"Butter",
+        "price":"100",
+        "discount":"30",
+        "soldBy":"Harsshath Singha Roy",
+        "description":"Fresh healthy butter from sterlized milk",
+        "img":"https://media.gettyimages.com/photos/high-angle-view-of-butter-against-white-background-picture-id1201636366?k=20&m=1201636366&s=612x612&w=0&h=XK50WVdZYc2mV1tv3ZE5mNUInoq_I-knNRgXQhRyjwI="
+
+    },
+    {
+        "key":"d4",
+        "name":"YOGURT",
+        "price":"100",
+        "discount":"10",
+        "soldBy":"Harsshath Singha Roy",
+        "description":"Fresh healthy butter from sterlized milk",
+        "img":"https://media.gettyimages.com/vectors/yoghurt-with-spoon-vector-id1185514634?k=20&m=1185514634&s=612x612&w=0&h=gGlkfNEb8cxlv_Kg2RCVV_QtLHGH-8tLCmVKi3I0O2E="
+    },
+   
+    {
+        "key":"d5",
+        "name":"ICE CREAM",
+        "price":"100",
+        "discount":"10",
+        "soldBy":"Harsshath Singha Roy",
+        "description":"Fresh healthy butter from sterlized milk",
+        "img":"https://media.gettyimages.com/illustrations/frozen-yogurt-burst-illustration-id167590001?k=20&m=167590001&s=612x612&w=0&h=Wouq7FBU81dvxurtr-GJNi4ppgpipJKfUE3YImm-rFs=" 
+    }, 
+
+    {
+        "key":"d6",
+        "name":"CUSTARD",
+        "price":"100",
+        "discount":"10",
+        "soldBy":"Harsshath Singha Roy",
+        "description":"Fresh healthy butter from sterlized milk",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwj-W36BWutbB2cpNk1KPp84KY5iDJSGH2xQ&usqp=CAU" 
+   }, 
+
+   
+   {
+    "key":"d7",
+    "name":"CASEIN",
+    "price":"100",
+    "discount":"10",
+    "soldBy":"Harsshath Singha Roy",
+    "description":"Fresh healthy butter from sterlized milk",
+    "img":"https://m.media-amazon.com/images/I/31o4sPvblFL._AC_UL480_FMwebp_QL65_.jpg" 
+},
+{
+    "key":"d8",
+    "name":"WHIPPED CREAM",
+    "price":"100",
+    "discount":"10",
+    "soldBy":"Harsshath Singha Roy",
+    "description":"Fresh healthy butter from sterlized milk",
+    "img":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhUTEBIRFRUSFRYZEhYXDxAWFRgVFRYXFxUWGBcYHSghGBolGxUVITEhJSkrLi4uFyAzODMsNygtLisBCgoKDg0OGxAQFy0mHyUtLS0tLSstLSsrLS4tLS8tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLf/AABEIANQA7gMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAgQBBQYDB//EAEMQAAEEAAMDCQUFBwIGAwAAAAEAAgMRBBIhBTFBBhMiMlFSYXHBFoGRktIHFEKhsSMkM2JystE0cxU1U4KT8EOD4f/EABoBAQACAwEAAAAAAAAAAAAAAAABAwIEBQb/xAA2EQACAgAEAwYEBQIHAAAAAAAAAQIRAwQhMRJBURMiMmFxkTPB0fAFUoGhsTTxFCNCU2Jy4f/aA"
+}
+
+]

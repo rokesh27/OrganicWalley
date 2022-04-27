@@ -1,0 +1,153 @@
+[
+
+    {
+            "key":"f0",
+            "name":"MANGO",
+            "description":"fresh healthy mango",
+            "soldBy":"Govardhan rathode chatarjee",
+            "price":"100",
+            "discount":"30",
+            "img":"https://5.imimg.com/data5/SL/DA/GLADMIN-9523458/imam-pasand-mango-fruit-500x500.jpg"
+    
+        
+    },
+    {
+        "key":"f1",
+        "name":"APPLE",
+        "description":"fresh healthy apple",
+        "soldBy":"Govardhan rathode chatarjee",
+        "price":"100",
+        "discount":"10",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOteJc35SvHf-Wmoasnx7hQe-TiCNvIUnVlw&usqp=CAU"
+    },
+    {
+        "key":"f2",
+        "name":"GREEN APPLE",
+        "description":"fresh healthy apple",
+        "soldBy":"Govardhan rathode chatarjee",
+        "price":"200",
+        "discount":"20",
+        "img":"https://femina.wwmindia.com/content/2021/feb/health-benefits-of-green-apples.jpg"
+    },
+    
+    {
+        "key":"f3",
+        "name":"STRAW BERRY",
+        "description":"fresh healthy apple",
+        "soldBy":"Govardhan rathode chatarjee",
+        "price":"100",
+        "discount":"30",
+        "img":"https://swall.teahub.io/photos/small/19-192365_ultra-hd-fruits-hd.jpg"
+
+    },
+    {
+        "key":"f4",
+        "name":"PAPAYA",
+        "description":"fresh healthy orange",
+        "price":"200",
+        "soldBy":"Govardhan rathode chatarjee",
+        "discount":"15",
+        "img":"https://media.istockphoto.com/photos/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-picture-id864053288?b=1&k=20&m=864053288&s=170667a&w=0&h=IsyLu5b7vvJycnyLcQwBGv88BOXMZub_W5AyM9mvps0="
+    },
+    {
+        "key":"f5",
+        "name":"PINEAPPLE",
+        "description":"fresh healthy pineapple",
+        "price":"200",
+        "soldBy":"kaamasani bharath reddy",
+        "discount":"15",
+        "img":"https://www.thespruceeats.com/thmb/ilvEyqMbvO7dhLoFlT8-ddc0KF8=/3802x3802/smart/filters:no_upscale()/hawaii--platter-of-large-ripe-pineapples--503869977-595d304c5f9b58843f18f227.jpg"
+
+    },
+    {
+        "key":"f6",
+        "name":"BANANA",
+        "description":"fresh healthy banana",
+        "price":"100",
+        "soldBy":"kaamasani bharath reddy",
+        "discount":"10",
+        "img":"https://media.npr.org/assets/img/2011/08/19/istock_000017061174small-6ca3bb7c8b6c768b92153932e822623a95065935.jpg"
+
+    },
+    
+    {
+        "key":"f7",
+        "name":"ORANGE",
+        "description":"fresh healthy orange",
+        "price":"150",
+        "soldBy":"kaamasani bharath reddy",
+        "discount":"10",
+        "img":"https://www.rd.com/wp-content/uploads/2017/12/01_oranges_Finally%E2%80%94Here%E2%80%99s-Which-%E2%80%9COrange%E2%80%9D-Came-First-the-Color-or-the-Fruit_691064353_Lucky-Business.jpg"
+
+    },
+    {
+        "key":"f8",
+        "name":"POMEGRANATE",
+        "description":"fresh healthy pomegranate",
+        "price":"200",
+        "soldBy":"Govardhan rathode chatarjee",
+        "discount":"15",
+        "img":"https://www.vhv.rs/dpng/d/104-1049752_all-fruits-hd-png-download.png"
+    },
+    {
+        "key":"f9",
+        "name":"KIWI",
+        "description":"fresh healthy KIWI",
+        "price":"200",
+        "soldBy":"kaamasani bharath reddy",
+        "discount":"15",
+        "img":"https://www.onlyfoods.net/wp-content/uploads/2012/06/Kiwi-Fruit-Images.jpg"
+
+    },
+    {
+        "key":"f10",
+    "name":"BLACK GRAPES",
+    "description":"fresh healthy black grapes",
+    "price":"200",
+    "soldBy":"kaamasani bharath reddy",
+    "discount":"15",
+    "img":"https://2.bp.blogspot.com/-TBYmWnxLD7s/WFjUZ9Ahu3I/AAAAAAAACIQ/yZoURmPFXgQtx6_wSAGkBmC_koT9thtwgCLcB/s1600/Grapes%2BHD%2BPhoto.jpg"
+
+},
+{
+    "key":"f11",
+    "name":"GUAVA",
+    "description":"fresh healthy guava",
+    "price":"80",
+    "soldBy":"kaamasani bharath reddy",
+    "discount":"10",
+    "img":"https://i.ytimg.com/vi/afJvEADf4rA/maxresdefault.jpg"
+
+},
+{
+    "key":"f12",
+    "name":"SAPOTA",
+    "description":"fresh healthy sapota",
+    "price":"150",
+    "soldBy":"rokinaldo paparao",
+    "discount":"10",
+    "img":"https://blog-images.pharmeasy.in/2021/05/18144539/shutterstock_1772959055-1.jpg"
+
+},
+{
+    "key":"f13",
+    "name":"CHERRY",
+    "description":"fresh healthy cherries",
+    "price":"200",
+    "soldBy":"rokinaldo paparao",
+    "discount":"10",
+    "img":"https://media.istockphoto.com/photos/fresh-ripe-black-cherries-background-top-view-close-up-picture-id612524020?b=1&k=20&m=612524020&s=170667a&w=0&h=djLz1GiT44xi_uvDBN-4MgFqyFHSFpReRfoKo436K6w="
+
+},
+{
+    "key":"f14",
+    "name":"GREEN GRAPES",
+    "description":"fresh healthy green grapes",
+    "price":"200",
+    "soldBy":"kaamasani bharath reddy",
+    "discount":"15",
+    "img":"https://www.seekpng.com/png/detail/8-89797_fruit-drawing-clipart-grapes-fruit-logo-set-clipart.png"
+
+}
+
+]

@@ -1,0 +1,25 @@
+div.gallery {
+  margin: 10px;
+  border: 1px solid #ccc;
+  
+  width: 210px;
+  display:inline-block;
+    
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 180px;
+    height: 200px;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: cursive;
+    text-align: left;
+    color: rgb(7, 7, 7);
+  }

@@ -1,0 +1,200 @@
+{
+  "products": [
+    {
+      "Full_name": "PAPAYA",
+      "type": "Fruit",
+      "Qty": "150",
+      "price": "200",
+      "discount": "10",
+      "desc": "PAPAYA",
+      "img": "https://media.istockphoto.com/photos/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-picture-id864053288?b=1&k=20&m=864053288&s=170667a&w=0&h=IsyLu5b7vvJycnyLcQwBGv88BOXMZub_W5AyM9mvps0=",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 4
+    },
+    {
+      "Full_name": "GREEN APPLE",
+      "type": "Fruit",
+      "Qty": "150",
+      "price": "200",
+      "discount": "10",
+      "desc": "Fresh Organic GREEN APPLE",
+      "img": "https://femina.wwmindia.com/content/2021/feb/health-benefits-of-green-apples.jpg",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 5
+    },
+    {
+      "Full_name": "PINEAPPLE",
+      "type": "Fruit",
+      "Qty": "150",
+      "price": "200",
+      "discount": "10",
+      "desc": "Fresh Organic PINEAPPLE",
+      "img": "https://www.thespruceeats.com/thmb/ilvEyqMbvO7dhLoFlT8-ddc0KF8=/3802x3802/smart/filters:no_upscale()/hawaii--platter-of-large-ripe-pineapples--503869977-595d304c5f9b58843f18f227.jpg",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 6
+    },
+    {
+      "Full_name": "Tomato",
+      "type": "Vegetable",
+      "Qty": "150",
+      "price": "100",
+      "discount": "10",
+      "desc": "good product",
+      "img": "https://media.gettyimages.com/photos/ripe-tomatoes-picture-ida0119-000144?k=20&m=a0119-000144&s=612x612&w=0&h=Oh0DbKAa72F8UbjZRsugZUPRsIWP70KnJyQPfuyt1Kk=",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 15
+    },
+    {
+      "Full_name": "Bitter Ground",
+      "type": "Vegetable",
+      "Qty": "150",
+      "price": "100",
+      "discount": "10",
+      "desc": "good product",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42k0ETw-MA89LaM6_UwZ1xHa5_fA_2bBKZg&usqp=CAU",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 16
+    },
+    {
+      "Full_name": "Carrot",
+      "type": "Vegetable",
+      "Qty": "150",
+      "price": "140",
+      "discount": "25",
+      "desc": "good product",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmVbvCnXAyavi5zDahid9ORFAwLb-XcdITfg&usqp=CAU",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 17
+    },
+    {
+      "Full_name": "Cucumber",
+      "type": "Vegetable",
+      "Qty": "170",
+      "price": "360",
+      "discount": "40",
+      "desc": "good product",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh_5k5dAqUr4BscUcYeNE2O9aXpgz24MidQ&usqp=CAU",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 18
+    },
+    {
+      "Full_name": "Almonds",
+      "type": "Pulses",
+      "Qty": "170",
+      "price": "380",
+      "discount": "40",
+      "desc": "good product",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHSvHBtaxJtgDLhKQJoIzoeey8LeYBu1x-A&usqp=CAU",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 19
+    },
+    {
+      "Full_name": "Rice",
+      "type": "Pulses",
+      "Qty": "200",
+      "price": "150",
+      "discount": "25",
+      "desc": "good product",
+      "img": "https://st2.depositphotos.com/1753833/5473/i/600/depositphotos_54739737-stock-photo-rice-in-burlap-sack.jpg",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 20
+    },
+    {
+      "Full_name": "Blackpepper",
+      "type": "Pulses",
+      "Qty": "150",
+      "price": "180",
+      "discount": "8",
+      "desc": "good product",
+      "img": "https://grocypie.com/wp-content/uploads/2021/01/Kali-Mirch-b.jpg",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 22
+    },
+    {
+      "Full_name": "Milk",
+      "type": "dairy",
+      "Qty": "1000",
+      "price": "65",
+      "discount": "10",
+      "desc": "good product",
+      "img": "https://media.gettyimages.com/photos/dairy-products-cheese-yoghurt-milk-picture-id155372492?k=20&m=155372492&s=612x612&w=0&h=Wxx6LBFxrqGYFHQ7letLwlVN7PJQA1wUzKVzxOLfUGI=",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 23
+    },
+    {
+      "Full_name": "Cheese",
+      "type": "dairy",
+      "Qty": "200",
+      "price": "150",
+      "discount": "21",
+      "desc": "good product",
+      "img": "https://media.gettyimages.com/photos/dairy-products-shot-on-rustic-wooden-table-picture-id910881428?k=20&m=910881428&s=612x612&w=0&h=c-wO3gdyknBh8SUzwDTWCRQ9aALx0Cpb2qy8aSbqQV8=",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 24
+    },
+    {
+      "Full_name": "Butter",
+      "type": "dairy",
+      "Qty": "250",
+      "price": "650",
+      "discount": "35",
+      "desc": "good product",
+      "img": "https://media.gettyimages.com/photos/high-angle-view-of-butter-against-white-background-picture-id1201636366?k=20&m=1201636366&s=612x612&w=0&h=XK50WVdZYc2mV1tv3ZE5mNUInoq_I-knNRgXQhRyjwI=",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 25
+    },
+    {
+      "Full_name": "banana",
+      "type": "Fruit",
+      "Qty": "150",
+      "price": "100",
+      "discount": "15",
+      "desc": "good product",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOteJc35SvHf-Wmoasnx7hQe-TiCNvIUnVlw&usqp=CAU",
+      "SoldBy": {
+        "email": "kmrokeshreddy@gmail.com",
+        "UserName": "KONGAMUDI rokesh"
+      },
+      "id": 26
+    }
+  ]
+}

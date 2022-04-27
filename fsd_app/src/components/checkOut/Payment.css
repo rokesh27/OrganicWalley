@@ -1,0 +1,57 @@
+.pay{
+    width: 100%;
+    margin: 8px 0;
+    padding: 16px 18px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  .paymentbtn {
+    background-color: darkslategrey;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: larger;
+    text-decoration: none;
+    
+    
+  }
+  
+  
+  
+  .Label{
+  text-align:left;
+  margin-left: 0%;
+  
+  }
+  /* Add a hover effect for buttons */
+  btn:hover {
+    opacity: 0.8;
+    
+    color:whitesmoke;
+  }
+  
+  
+  
+  
+  
+  /* Add padding to containers */
+  .credit{
+    padding: 16px;
+    box-sizing: border-box;
+    border-style: solid;
+    margin-left: 36%;
+    margin-right: 36%;
+    margin-top:60px;
+    border-radius: 25px;
+    padding-bottom: 3%;
+   
+    
+  }
+  
+  

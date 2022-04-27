@@ -1,0 +1,83 @@
+
+.container-product{
+  margin-top: 5%;
+  margin-left: 2%;
+  padding: 0 5%;
+    width:45%;
+    float:left;
+    margin-right: 3%;
+    height:300px;
+}
+
+.imageleft {
+  width: 46%;
+  float:left;
+  height: 300px;
+  padding:2%;
+}
+
+.imageright {
+  width: 46%;
+  float:left;
+  height: 300px;
+  padding: 2%;
+}
+
+/* Clear floats after the columns */
+.container-product:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.col2{
+    width:40%;
+    float:left;
+    margin-top: 5%;
+}
+
+.col2:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.col2 h1{
+    text-align:left;
+    padding-top: 5px;
+    
+}  
+.col2 h2{
+    text-align:left;
+}  
+span{
+    display: inline-block;
+    
+}
+
+.corousel2{
+  display: block;
+}
+.cssadjuster{
+  margin-top: 10%;
+  float: left;
+  width: 100%;
+}
+
+.main-slide{
+
+}
+.carousel .slider-wrapper{
+  width: min-content
+}
+.carousel .thumb{
+  width: 90%;
+  height: 70px;
+  display: none;
+  right: -50px;
+  align-content: center;
+  position:relative;
+}
+.carousel .thumb .childone{
+  margin-left:10%;
+}

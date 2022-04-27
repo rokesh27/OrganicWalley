@@ -1,0 +1,22 @@
+.container1{
+    margin-left: 5%;
+    margin-top: 10%;
+    text-align: center;
+    
+}
+.empImg{
+    width: 40%;
+    height: 250px;
+}
+.empButton{
+    padding: 0.5%;
+    font-size: small;
+    color: blueviolet;
+    border-style: groove;
+    
+    
+    border-color: blueviolet;
+}
+.empDes{
+    margin-right: 3.1%;
+}
